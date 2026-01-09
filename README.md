@@ -11,7 +11,7 @@ This project is the setup for the osTicket ticketing system so that end users ca
 
 - Microsoft Azure (Virtual Machines)
 - osTicket
-- Remote Desktop
+- Windows App (Remote Desktop)
 
 <h2>Operating Systems Used </h2>
 
