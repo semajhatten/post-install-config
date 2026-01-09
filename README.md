@@ -2,13 +2,10 @@
 <img src="https://i.imgur.com/Clzj7Xs.png" alt="osTicket logo"/>
 </p>
 
-<h1>osTicket - Post-Install Configuration</h1>
-This tutorial outlines the post-install configuration of the open-source help desk ticketing system osTicket.<br />
+<h1>osTicket - Setup for Ticketing System</h1>
+This project is the setup for the osTicket ticketing system so that end users can create tickets and help desk agents can respond. Throughout the project we will configure Roles, Departments, Teams, Agents, Users, SLAs, and Help Topics. Once the setup is complete the user will then be able to simulate through different real world scenarios of tickets. <br />
 
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
 
 <h2>Environments and Technologies Used</h2>
 
