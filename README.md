@@ -15,7 +15,7 @@ This project is the setup for the osTicket ticketing system so that end users ca
 
 <h2>Operating Systems Used </h2>
 
-- Windows 10</b> (21H2)
+- Windows 10
 
 <h2>Post-Install Configuration Objectives</h2>
 
