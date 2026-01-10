@@ -47,6 +47,18 @@ Configuring Departments: <br/>
 <br/>
 <br/>
 Configuring Teams: <br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8340a863-35c2-4853-82d3-2e91380ef552" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/581f655c-70f2-4e0a-9200-ecebeba98b42" />
+<br/>
+<br/>
+Configuring Agents: <br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/58bd0364-6453-43e6-807b-67625ff8a5d5" />
+<br/>
+<br/>
+<img width="1982" height="1218" alt="image" src="https://github.com/user-attachments/assets/8e0018a1-339f-4054-8222-913c5e4e9a74" />
+
 
 
 
