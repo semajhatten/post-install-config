@@ -110,6 +110,13 @@ Configuring SLA (Service Level Agreement): <br/>
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1e6d4886-bf46-4169-9856-4c1d31605840" />
 <br/>
 <br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f1dd4f23-dfa8-4667-8e54-0879c6f83a86" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6b2b108a-bd0d-45d1-9ca9-86e8a4956d21" />
+<br/>
+<br/>
+Configuring Help Topics for when users create a ticket: <br/>
 
 
 
