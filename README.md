@@ -53,11 +53,68 @@ Configuring Teams: <br/>
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/581f655c-70f2-4e0a-9200-ecebeba98b42" />
 <br/>
 <br/>
-Configuring Agents: <br/>
+Configuring Agents (workers): <br/>
 <img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/58bd0364-6453-43e6-807b-67625ff8a5d5" />
 <br/>
 <br/>
-<img width="1982" height="1218" alt="image" src="https://github.com/user-attachments/assets/8e0018a1-339f-4054-8222-913c5e4e9a74" />
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/a640fce0-5a76-4d1f-9fe0-c153dc651576" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e3e610c6-4028-4579-bc53-b89bcea88a71" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/0e4ecb7a-8bc2-48bd-9349-2b816455564f" />
+<br/>
+<br/>
+<img width="2052" height="1672" alt="image" src="https://github.com/user-attachments/assets/735158ff-9b2c-4dce-9f7c-bf52cb18fc35" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7857507f-220e-402c-b4b8-fb9de4fe6758" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b9d78094-266c-41fe-9a2d-72ae0c4c9395" />
+<br/>
+<br/>
+Configuring Users (customers): <b/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/6f813196-6f15-4ba8-86c7-22c936b82351" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/e46e34f3-8421-45d9-801c-3f6482b52b02" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/dcb30605-b22c-48e5-b5b1-d1a53fb009ca" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/22e02b5d-212f-4a4e-b051-8c045175c993" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b3286b80-d344-4f16-90b1-ba3d4391f798" />
+<br/>
+<br/>
+Configuring SLA (Service Level Agreement): <br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/304bbbc9-fed2-4175-b467-92373b1cf544" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f862c0e5-ca74-4a8b-9a12-51939d3dfb86" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/8790c47c-dde2-41ca-a718-caf71a9b510a" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7e541f35-fd3e-4ec8-8fb5-282aecb026e1" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/17ebd056-8f1a-451f-ab89-f7e8cea79b4b" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/1e6d4886-bf46-4169-9856-4c1d31605840" />
+<br/>
+<br/>
+
+
+
+
+
 
 
 
