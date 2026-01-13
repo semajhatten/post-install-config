@@ -117,6 +117,25 @@ Configuring SLA (Service Level Agreement): <br/>
 <br/>
 <br/>
 Configuring Help Topics for when users create a ticket: <br/>
+<img width="3840" height="2160" alt="image" src="https://github.com/user-attachments/assets/d33261d1-dd9e-404c-a39f-c47a4550685d" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/37db268f-1c23-4854-ac80-322d6cfae65d" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/b0a199eb-8015-4967-bc3b-771321e65072" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/7fad1827-f9be-46ad-8f30-bb27d19c67d0" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/f97ed97a-3f64-4fc6-830d-b36a27c6dd88" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/19258975-538f-4abc-827c-1721a9666337" />
+<br/>
+<br/>
+<img width="2940" height="1912" alt="image" src="https://github.com/user-attachments/assets/cc6b1372-15ce-48df-beb9-9a6329eff55b" />
 
 
 
